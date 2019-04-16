@@ -1,3 +1,0 @@
-create zip file
-search phoneGap build
-9:30-10:30am
