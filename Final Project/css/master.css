@@ -3,6 +3,10 @@
 	border: 3px solid black;
 }
 
+.banner_pic {
+	width: 100%;
+}
+
 #Menu {
   margin: auto;
   width: 22vw;
@@ -23,12 +27,12 @@
 	color: grey;
 }
 
-#sides1 {
+.Side_Black1 {
 	Float: left;
 	width: 20%;
 }
 
-#sides2 {
+.Side_Black2 {
 	Float: right;
 	width: 20%;
 }
