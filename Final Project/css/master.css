@@ -29,11 +29,13 @@
 
 .Side_Black1 {
 	Float: left;
+	clear:right;
 	width: 20%;
 }
 
 .Side_Black2 {
 	Float: right;
+	clear:left;
 	width: 20%;
 }
 
