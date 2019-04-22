@@ -32,12 +32,14 @@
 	Float: left;
 	clear:right;
 	width: 20%;
+	height: 100%
 }
 
 .Side_Black2 {
 	Float: right;
 	clear:left;
 	width: 20%;
+	Height: 100%
 }
 
 h1 {
