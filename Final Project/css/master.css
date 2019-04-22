@@ -6,7 +6,9 @@
 .banner_pic {
 	width: 100%;
 }
-
+#background{
+	background-images:images(background.png)
+}
 #Menu {
   float:center;
   margin: auto;
