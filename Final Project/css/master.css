@@ -8,6 +8,7 @@
 }
 
 #Menu {
+  float:center;
   margin: auto;
   width: 22vw;
   padding: 6px;
