@@ -6,6 +6,10 @@
 .banner_pic {
 	width: 100%;
 }
+#table
+{
+ border:1px solid black;
+}
 #background{
 	background-images:images(background.png)
 }
