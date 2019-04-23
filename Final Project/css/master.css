@@ -10,8 +10,8 @@ table,th
 {
  border:1px solid black;
 }
-#background{
-	background-images:images(background.png)
+background{
+	background-images:url(background.png);
 }
 #Menu {
   float:center;
