@@ -6,7 +6,7 @@
 .banner_pic {
 	width: 100%;
 }
-#table
+table,th
 {
  border:1px solid black;
 }
